@@ -1,2 +1,2 @@
 # Python
-# All codes uploaded here are for learning purposes only.
+## All codes pushed here are for learning purposes only.
