@@ -6,7 +6,9 @@ def multiply(x,y):
     return x * y
 def divide(x,y):
     return x / y
+
 print("Welcome")
+
 while True:
     print("Select any one of the following operations:\n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division")
     n = int(input("Enter operation no. "))
