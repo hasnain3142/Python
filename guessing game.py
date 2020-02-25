@@ -2,7 +2,7 @@ name = input("Enter your name: ")
 print("Hello There,",name,"\nThink of an integer between any desired range...I will try to guess it")
 input("Enter when ready...")
 print("Now, tell me range of your number")
-high = int(input("Enter highest limit: "))                                               #Maximum Range Limit
+high = int(input("Enter highest limit: "))                                                #Maximum Range Limit
 low = int(input("Enter lowest limit: "))                                                  #Minimum Range Limit
 from math import log,ceil,floor                                                             #Imported three functions from module named math
 guesses = ceil(log(high-low,2))+1                                                        #We implemented a formula of binary bisection
