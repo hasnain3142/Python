@@ -1,0 +1,9 @@
+-----------------------------------------------------------------------------------------------------------------------
+I will pick a word, randomly form a list of available words, and you will try to guess letters in the word.
+You have six guesses and three warnings.
+If you will enter a consonant that has not been guessed and the consonant is not in the secret word, you will lose one guess.
+If the vowel has not t been guessed and the vowel is not in the secret word, you will lose two guesses.
+Each time you will enter anything besides an alphabet (symbols, numbers) or a letter that has already been guessed, you will lose a warning.
+If no warnings are left, you will lose a guess.
+The game will end when you will construct the full word or run out of guesses.
+-----------------------------------------------------------------------------------------------------------------------
